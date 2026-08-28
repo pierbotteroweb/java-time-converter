@@ -1,3 +1,5 @@
+package com.pierbotteroweb.timeconverter;
+
 public class TimeConverter {
 
     private int totalSeconds;
