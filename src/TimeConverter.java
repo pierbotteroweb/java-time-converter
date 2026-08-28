@@ -8,5 +8,5 @@ public class TimeConverter {
 
     public int convertToMinutes(){
         return totalSeconds/60;
-    };
+    }
 }
